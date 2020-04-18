@@ -39,7 +39,7 @@ done
 export PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 clear
 
-yum -y update
+#yum -y update
 yum -y install epel-release
 yum -y install firewalld net-tools curl ppp pptpd
 
