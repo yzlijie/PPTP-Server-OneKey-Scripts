@@ -1,4 +1,4 @@
-# VPS
+# PPTP-Server-OneKey-Scripts
 Virtual private server related
 
 Setup Simple PPTP VPN server for CentOS and Ubuntu
